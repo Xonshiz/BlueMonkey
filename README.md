@@ -81,7 +81,7 @@ protected override void OnActivityResult (
 }
 ~~~
 
-## Android Survey Monkey Binding Project - SurveyMonkeyAndroidBindings
+## iOS Survey Monkey Binding Project - SurveyMonkeyiOSBindings
 
 To use, add the iOS binding project to your solution and add as a dependent project to your iOS Xamarin App. The usage is pretty much the same as the Survey Monkey iOS SDK. The code follows what the iOS Survey Monkey example does.
 
